@@ -10,5 +10,6 @@ public class File1 {
         System.out.println("Hello World !!!");
         System.out.println("Take input from the user and add them into the account");
         System.out.println("Some latest changes I am making");
+        System.out.println("Create an avatar for the user");
     }
 }
